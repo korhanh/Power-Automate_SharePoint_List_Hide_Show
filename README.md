@@ -12,8 +12,8 @@ This project provides a solution for hiding or showing items in SharePoint lists
 - Method: POST
 - Uri: _api/web/lists/getbytitle('your_List_Name')
 - Headers:
-    X-HTTP-Method: MERGE
-    If-Match: *
+    - X-HTTP-Method: MERGE
+    - If-Match: *
 - Body:
 ```json
 {
