@@ -33,9 +33,9 @@ This project provides a solution for hiding or showing items in SharePoint lists
 
 ## Requirements
 
-- Microsoft Power Automate aboneliği
-- SharePoint temel bilgileri
-- Power Automate iş akışı oluşturma konusunda temel bilgi
+- Microsoft Power Automate subscription
+- Basic understanding of SharePoint
+- Basic knowledge of Power Automate flow creation
 
 ## Getting Started
 
