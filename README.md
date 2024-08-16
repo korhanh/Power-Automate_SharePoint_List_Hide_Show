@@ -2,6 +2,10 @@
 
 This project provides a solution for hiding or showing items in SharePoint lists based on specific conditions using Microsoft Power Automate. This solution allows you to dynamically manage the visibility of list items, enhancing user experience and data organization within SharePoint.
 
+## How It Works# Power Automate SharePoint List Hide/Show
+
+This project provides a solution for hiding or showing items in SharePoint lists based on specific conditions using Microsoft Power Automate. This solution allows you to dynamically manage the visibility of list items, enhancing user experience and data organization within SharePoint.
+
 ## How It Works
 
 1. Variable Creation: A variable named "true_or_false" is created. This variable contains the command to hide or show items in the list.
@@ -60,3 +64,4 @@ This project is created and maintained by [korhanh]([link_to_your_github_profile
 If you use this project or find it helpful, consider giving it a star on GitHub!
 
 Happy Hide or Show SP List! :rocket:
+
